@@ -104,7 +104,7 @@ def soup_difficult(soup):
 
 
 def write_file(data):
-    with open('teacher_information_all.json', 'w+', encoding='gbk') as f:
+    with open('teacher_information_other_test.json', 'w+', encoding='gbk') as f:
         json_str = json.dumps(data, indent=4, ensure_ascii=True)  # 这就是为什么json文件中的问题，里面不是GBK
         f.write(json_str)
         f.write('\n')
@@ -132,8 +132,11 @@ def main():
             }
         )
     write_file(information)
-
-
+    # print("------------------------------------")
+    # print("------------------------------------")
+    # print("------------------------------------")
+    # print("------------------------------------")
+    # print(str(information[0].get('teacher')).replace("\xf6", ""))
     return
 
 
