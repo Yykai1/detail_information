@@ -103,18 +103,19 @@ def soup_difficult(soup):
     return paper
 
 
-def write_file(data):
-    with open('teacher_information_other_test.json', 'w+', encoding='gbk') as f:
-        json_str = json.dumps(data, indent=4, ensure_ascii=True)  # 这就是为什么json文件中的问题，里面不是GBK
-        f.write(json_str)
-        f.write('\n')
-    f.close()
-    return
+# def write_file(data):
+#     with open('teacher_information_other_test.json', 'w+', encoding='utf-8') as f:
+#         json_str = json.dumps(data, indent=4, ensure_ascii=True)  # 这就是为什么json文件中的问题，里面不是GBK
+#         f.write(json_str)
+#         f.write('\n')
+#     f.close()
+#     return
 
 
-def main():
-    information = []
+def dblp_function(introduction):
+    information = introduction
     teacher = read_file()
+    count = 0
     for i in teacher:
         url = 'https://dblp.uni-trier.de/search?q=' + i
         # 第一次进行链接的访问
@@ -125,13 +126,9 @@ def main():
         link_soup = get_data(link_url)
         # print(soup_difficult(link_soup))
         paper = soup_difficult(link_soup)
-        information.append(
-            {
-                "teacher": i,
-                "paper": paper
-            }
-        )
-    write_file(information)
+        information[count]['paper'] = paper
+        count = count + 1
+    # write_file(information)
     # print("------------------------------------")
     # print("------------------------------------")
     # print("------------------------------------")
@@ -139,6 +136,3 @@ def main():
     # print(str(information[0].get('teacher')).replace("\xf6", ""))
     return
 
-
-if __name__ == '__main__':
-    main()

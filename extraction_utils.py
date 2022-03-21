@@ -20,9 +20,9 @@ def write_file(teachers):
     return
 
 
-def main():
+def util_function():
     teachers_list = []
-    ex = pd.read_excel("teachers.xlsx")
+    ex = pd.read_excel("teachers_name.xlsx")
     for i in ex['姓名']:
         name_list = lazy_pinyin(i)
 
@@ -37,6 +37,3 @@ def main():
     write_file(teachers_list)
     return
 
-
-if __name__ == '__main__':
-    main()
