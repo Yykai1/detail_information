@@ -9,6 +9,11 @@ from pypinyin import lazy_pinyin
 
 
 def write_file(teachers):
+    """写文件，向teacher.txt文件中写入老师的英文名字
+
+    :param teachers: 老师的英文名字列表list
+    :return: 无
+    """
     count = 0
     with open("teacher.txt", "w+") as f:
         for i in teachers:
@@ -21,6 +26,11 @@ def write_file(teachers):
 
 
 def util_function():
+    """从teaches_name.xlsx文件中读取老师的中文名字，转换成英文。
+    这边功能有点杂糅，可以把将数据处理定义为一个函数（略过此操作）
+
+    :return: 无
+    """
     teachers_list = []
     ex = pd.read_excel("teachers_name.xlsx")
     for i in ex['姓名']:
