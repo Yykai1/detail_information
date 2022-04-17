@@ -1,4 +1,4 @@
-**eachers_to_main的主要功能**
+**teachers_to_main的主要功能**
 
 > 1. 作为所有函数的入口
 >
