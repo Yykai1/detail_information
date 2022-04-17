@@ -1,0 +1,188 @@
+[
+    {
+        "teacher": "Guilin_Qi",
+        "paper": [
+            {
+                "first_author": "Qiushuo Zheng",
+                "second_author": "Hao Wen",
+                "third_author": "Meng Wang",
+                "fourth_author": "Guilin Qi",
+                "fifth_author": null,
+                "paper_title": "Visual Entity Linking via Multi-modal Learning.",
+                "paper_from": "Data Intell.",
+                "paper_page": "1-19",
+                "paper_year": "2022"
+            },
+            {
+                "first_author": "Qiu Ji",
+                "second_author": "Weizhuo Li",
+                "third_author": "Shiqi Zhou",
+                "fourth_author": "Guilin Qi",
+                "fifth_author": "Yuan-Fang Li",
+                "paper_title": "Benchmark construction and experimental evaluations for incoherent ontologies.",
+                "paper_from": "Knowl. Based Syst.",
+                "paper_page": "108090",
+                "paper_year": "2022"
+            },
+            {
+                "first_author": "Rui Wu",
+                "second_author": "Zhaopeng Qiu",
+                "third_author": "Jiacheng Jiang",
+                "fourth_author": "Guilin Qi",
+                "fifth_author": "Xian Wu",
+                "paper_title": "Conditional Generation Net for Medication Recommendation.",
+                "paper_from": "CoRR",
+                "paper_page": null,
+                "paper_year": "2022"
+            },
+            {
+                "first_author": "Meng Wang",
+                "second_author": "Xu Qin",
+                "third_author": "Wei Jiang",
+                "fourth_author": "Chunshu Li",
+                "fifth_author": "Guilin Qi",
+                "paper_title": "Link Trustworthiness Evaluation over Multiple Heterogeneous Information Networks.",
+                "paper_from": "Complex.",
+                "paper_page": "6615179:1-6615179:11",
+                "paper_year": "2021"
+            },
+            {
+                "first_author": "Huajun Chen",
+                "second_author": "Ning Hu",
+                "third_author": "Guilin Qi",
+                "fourth_author": "Haofen Wang",
+                "fifth_author": "Zhen Bi",
+                "paper_title": "OpenKG Chain: A Blockchain Infrastructure for Open Knowledge Graphs.",
+                "paper_from": "Data Intell.",
+                "paper_page": "205-227",
+                "paper_year": "2021"
+            },
+            {
+                "first_author": "Zafar Ali",
+                "second_author": "Guilin Qi",
+                "third_author": "Khan Muhammad",
+                "fourth_author": "Pavlos Kefalas",
+                "fifth_author": "Shah Khusro",
+                "paper_title": "Global citation recommendation employing generative adversarial network.",
+                "paper_from": "Expert Syst. Appl.",
+                "paper_page": "114888",
+                "paper_year": "2021"
+            },
+            {
+                "first_author": "Meng Wang",
+                "second_author": "Weitong Chen",
+                "third_author": "Sen Wang",
+                "fourth_author": "Yinlin Jiang",
+                "fifth_author": "Lina Yao",
+                "paper_title": "Efficient search over incomplete knowledge graphs in binarized embedding space.",
+                "paper_from": "Future Gener. Comput. Syst.",
+                "paper_page": "24-34",
+                "paper_year": "2021"
+            },
+            {
+                "first_author": "Jun Sun",
+                "second_author": "Yan Li",
+                "third_author": "Yatian Shen",
+                "fourth_author": "Lei Zhang",
+                "fifth_author": "Wenke Ding",
+                "paper_title": "Selection gate-based networks for semantic relation extraction.",
+                "paper_from": "Int. J. Embed. Syst.",
+                "paper_page": "211-217",
+                "paper_year": "2021"
+            },
+            {
+                "first_author": "Shirong Shen",
+                "second_author": "Shangfu Duan",
+                "third_author": "Huan Gao",
+                "fourth_author": "Guilin Qi",
+                "fifth_author": null,
+                "paper_title": "Improved distant supervision relation extraction based on edge-reasoning hybrid graph model.",
+                "paper_from": "J. Web Semant.",
+                "paper_page": "100656",
+                "paper_year": "2021"
+            },
+            {
+                "first_author": "Xianda Zheng",
+                "second_author": "Yuan-Fang Li",
+                "third_author": "Huan Gao",
+                "fourth_author": "Yuncheng Hua",
+                "fifth_author": "Guilin Qi",
+                "paper_title": "Towards Balanced Defect Prediction with Better Information Propagation.",
+                "paper_from": "AAAI",
+                "paper_page": "759-767",
+                "paper_year": "2021"
+            },
+            {
+                "first_author": "Zhangquan Zhou",
+                "second_author": "Guilin Qi",
+                "third_author": "Birte Glimm",
+                "fourth_author": null,
+                "fifth_author": null,
+                "paper_title": "Parallel tractability of ontology materialization: Technique and practice.",
+                "paper_from": "J. Web Semant.",
+                "paper_page": "45-65",
+                "paper_year": "2018"
+            },
+            {
+                "first_author": "Zhangquan Zhou",
+                "second_author": "Guilin Qi",
+                "third_author": null,
+                "fourth_author": null,
+                "fifth_author": null,
+                "paper_title": "Position Paper: The Unreliability of Language - A Common Issue for Knowledge Engineering and Buddhism.",
+                "paper_from": "CCKS",
+                "paper_page": "27-32",
+                "paper_year": "2016"
+            },
+            {
+                "first_author": "Guilin Qi",
+                "second_author": null,
+                "third_author": null,
+                "fourth_author": null,
+                "fifth_author": null,
+                "paper_title": "A Semantic Approach for Iterated Revision in Possibilistic Logic.",
+                "paper_from": "AAAI",
+                "paper_page": "523-528",
+                "paper_year": "2008"
+            }
+        ]
+    },
+    {
+        "teacher": "Qiu_Ji",
+        "paper": [
+            {
+                "first_author": "Qiu Ji",
+                "second_author": "Weizhuo Li",
+                "third_author": "Shiqi Zhou",
+                "fourth_author": "Guilin Qi",
+                "fifth_author": "Yuan-Fang Li",
+                "paper_title": "Benchmark construction and experimental evaluations for incoherent ontologies.",
+                "paper_from": "Knowl. Based Syst.",
+                "paper_page": "108090",
+                "paper_year": "2022"
+            },
+            {
+                "first_author": "Weizhuo Li",
+                "second_author": "Shiqi Zhou",
+                "third_author": "Qiu Ji",
+                "fourth_author": "Bingjie Lu",
+                "fifth_author": null,
+                "paper_title": "GMap results for OAEI 2021.",
+                "paper_from": "OM@ISWC",
+                "paper_page": "152-159",
+                "paper_year": "2021"
+            },
+            {
+                "first_author": "Weizhuo Li",
+                "second_author": "Guilin Qi",
+                "third_author": "Qiu Ji",
+                "fourth_author": null,
+                "fifth_author": null,
+                "paper_title": "Hybrid reasoning in knowledge graphs: Combing symbolic reasoning and statistical reasoning.",
+                "paper_from": "Semantic Web",
+                "paper_page": "53-62",
+                "paper_year": "2020"
+            }
+        ]
+    }
+]
