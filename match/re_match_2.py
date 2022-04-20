@@ -29,10 +29,13 @@ def read_json():
         paper_temp = []
         number_temp = []
         type_temp = []
-        count = 0
         for j in range(len(json_data[i]['paper'])):  # 老师的论文会议信息作为二层循环
+            # 整体上做一个去重和统计的操作，如果存在，统计，否则，加入列表
             if json_data[i]['paper'][j]['paper_from'] not in paper_temp:
-                paper_temp.append(json_data[i]['paper'][j]['paper_from'])
+                from_temp = json_data[i]['paper'][j]['paper_from']
+                from_temp = re.sub(r'\(.*?\)', '', from_temp)
+                from_temp = from_temp.split('/')[0]
+                paper_temp.append(from_temp)
                 number_temp.append(1)
                 type_temp.append(json_data[i]['paper'][j]['paper_type'])
             else:

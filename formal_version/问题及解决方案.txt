@@ -1,0 +1,34 @@
+***问题：杂志或会议名字有包含关系
+***解决办法：根据杂志或会议进行区分，会提高精确度，但仍然可能会出现两个杂志（或会议）的名字有包含关系
+
+数据库/数据挖掘/内容检索
+会议C类
+Database and Expert System Applications（DEXA）
+
+人工智能
+杂志C类
+Expert Systems with Applications（ESWA）
+
+
+***
+去掉source.txt中会议或杂志名字中以小写字母开头的单词，比如of, with, on, the
+
+
+*** dblp中杂志名可能缺少Journal这个单词，
+dblp中用：World Wide Web
+ccf中用：World Wide Web Journal
+
+*** 将dblp读取来的会议或杂志名后面的括号及括号内的内容去掉
+ISWC/ASWC ： 只保留/前面的
+ISWC (1)和NLPCC(1) ：后面括号及括号内的内容去掉（变成ISWC）
+
+
+*** 匹配错误
+***解决办法：在读取ccf列表时，给杂志名字加个开始与结束标记
+将“Semantic Web”匹配到“International Journal Semantic Web InformatiSystems（IJSWIS）”上
+
+dblp conf / jour name: Semantic Web , type: Journal Articles
+    pattern is:  Semantic[ |-]Web( Journal|\s|\(|\（)
+    所属等级： 杂志C类
+    研究领域： 数据库/数据挖掘/内容检索
+

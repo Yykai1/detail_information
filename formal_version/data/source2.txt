@@ -1,0 +1,662 @@
+期刊A类
+ACM Transactions Computer Systems（TOCS）	ACM	http://dblp.uni-trier.de/db/journals/tocs/
+IEEE Transactions Computers（TOC）	IEEE	http://dblp.uni-trier.de/db/journals/tc/index.html
+IEEE Transactions Parallel Distributed Systems（TPDS）	IEEE	http://dblp.uni-trier.de/db/journals/tpds/
+IEEE Transactions Computer-Aided Design Integrated Circuits System（TCAD）	IEEE	http://dblp.uni-trier.de/db/journals/tcad/
+ACM Transactions Storage（TOC）		ACM	http://dblp.uni-trier.de/db/journals/tos/
+期刊B类
+ACM Transactions Architecture Code Optimization（TACO）		ACM	http://dblp.uni-trier.de/db/journals/taco/
+ACM Transactions Autonomous Adaptive Systems（TAAS）		ACM	http://dblp.uni-trier.de/db/journals/taas/
+ACM Transactions Design AutomatiElectronic Systems（TODAES）		ACM	http://dblp.uni-trier.de/db/journals/todaes/
+ACM Transactions Embedded Computing Systems（TECS）	ACM	http://dblp.uni-trier.de/db/journals/tecs/
+ACM Transactions Reconfigurable Technology Systems（TRETS）	ACM	http://dblp.uni-trier.de/db/journals/trets/
+IEEE Transactions VLSI Systems（TVLSI）	IEEE	http://dblp.uni-trier.de/db/journals/tvlsi/
+Journal Parallel Distributed Computing（JPDC）	Elsevier	http://dblp.uni-trier.de/db/journals/jpdc/
+Parallel Computing（PARCO）	Elsevier	http://dblp.uni-trier.de/db/conf/parco/
+Performance Evaluation: An International Journal		Elsevier	http://www.journals.elsevier.com/performance-evaluation/
+Journal Systems Architecture（JSA）	Elsevier	http://dblp.uni-trier.de/db/journals/jsa/
+期刊C类
+Concurrency Computation: Practice Experience	Wiley	http://dblp.uni-trier.de/db/journals/concurrency/
+Distributed Computing（DC）	Springer	http://dblp.uni-trier.de/db/journals/dc/
+Future GeneratiComputer Systems（FGCS）	Elsevier	http://dblp.uni-trier.de/db/journals/fgcs/
+Integration, the VLSI Journal（Integration）	Elsevier	http://dblp.uni-trier.de/db/journals/integration/
+Microprocessors Microsystems: Embedded Hardware Design	Elsevier	http://dblp.uni-trier.de/db/journals/mam/
+The Journal Grid computing（JGC）		Springer	http://link.springer.com/journal/10723
+The Journal Supercomputing（TJSC）	Springer	http://dblp.uni-trier.de/db/journals/tjs/
+The ACM Journal Emerging Technologies in Computing Systems（JETC）	AVM	http://dblp.uni-trier.de/db/journals/jetc/
+Journal Electronic Testing-Theory Applications（JET）	Springer	http://link.springer.com/journal/10836
+Real-Time Systems（RTS）	Springer	http://dblp.uni-trier.de/db/journals/rts/
+会议A类
+Architectural Support for Programming Languages Operating Systems（ASPLOS）	ACM	http://dblp.uni-trier.de/db/conf/asplos/
+Conference File Storage Technologies（FAST）	USENIX	http://dblp.uni-trier.de/db/conf/fast/
+High-Performance Computer Architecture（HPCA）	IEEE	http://dblp.uni-trier.de/db/conf/cnhpca/
+International Symposium Computer Architecture（ISCA）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/isca/
+MICRO	IEEE/ACM	http://dblp.uni-trier.de/db/journals/micro/
+International Conference for High Performance Computing, Networking, Storage, Analysis（SC）	IEEE	http://dblp.uni-trier.de/db/conf/sc/
+USENIX Annul Technical Conference（USENIX ATC）	USENIX	http://dblp.uni-trier.de/db/conf/usenix/index.html
+Principles Practice Parallel Programming（PPoPP）		ACM	http://dblp.uni-trier.de/db/conf/ppopp/
+会议B类
+ACM Symposium High Performance Chips（HOT CHIPS）	IEEE	http://www.hotchips.org/
+ACM Symposium Parallelism in Algorithms Architectures（SPAA）	ACM	http://dblp.uni-trier.de/db/conf/spaa/
+ACM Symposium Principles Distributed Computing（PODC）	ACM	http://dblp.uni-trier.de/db/conf/podc/
+Code GeneratiOptimization（CGO）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/cgo/
+Design AutomatiConference（DAC）	ACM	http://dblp.uni-trier.de/db/conf/eurodac/
+Design, Automati& Test in Europe Conference（DATE）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/date/
+EuroSys	ACM	http://dblp.uni-trier.de/db/conf/eurosys/
+High-Performance Distributed Computing（HPDC）	IEEE	http://dblp.uni-trier.de/db/conf/hpdc/
+International Conference Computer Design（ICCD）	IEEE	http://dblp.uni-trier.de/db/conf/iccd/
+International Conference Computer-Aided Design（ICCAD）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/iccad/
+International Conference Distributed Computing Systems（ICDCS）	IEEE	http://dblp.uni-trier.de/db/conf/icdcs/
+International Conference High Performance Embedded Architectures Compilers（HiPEAC）	ACM	http://dblp.uni-trier.de/db/conf/hipeac/
+International Conference Measurement Modeling Computer Systems（SIGMETRICS）	ACM	http://dblp.uni-trier.de/db/conf/sigmetrics/
+International Conference Parallel Processing（ICPP）	IEEE	http://dblp.uni-trier.de/db/conf/icpp/
+International Conference Supercomputing（ICS）	ACM	http://dblp.uni-trier.de/db/conf/ics/
+International Parallel & Distributed Processing Symposium（IPDPS）	IEEE	http://dblp.uni-trier.de/db/conf/ipps/
+ACM/SIGDA International Symposium Field-Programmable Gate Arrays（FPGA）	ACM	http://dblp.uni-trier.de/db/conf/fpga/
+International Symposium Computer Performance, Modeling, Measurements Evaluation（Performance）	ACM	http://dblp.uni-trier.de/db/conf/performance/
+Large Installatisystem AdministratiConference（LISA）	USENIX	http://dblp.uni-trier.de/db/conf/lisa/
+Mass Storage Systems Technologies（MSST）	IEEE	http://dblp.uni-trier.de/db/conf/mss/
+Parallel Architectures CompilatiTechniques（PACT）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/IEEEpact/
+Real-Time Embedded Technology Applications Symposium（RTAS）	IEEE	http://dblp.uni-trier.de/db/conf/rtas/
+Virtual ExecutiEnvironments（VEE）	ACM	http://dblp.uni-trier.de/db/conf/vee/
+ACM/IEEE Conf. Hardware/Software Co-design System Synthesis（CODES+ISSS）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/codes/index.html
+International Test Conference（ITC）	IEEE	http://dblp.uni-trier.de/db/conf/itc/
+ACM Symposium Cloud Computing（SOCC）	ACM	http://dblp.uni-trier.de/db/conf/cloud/
+会议C类
+ACM International Conference Computing Frontiers（CF）	ACM	http://dblp.uni-trier.de/db/conf/cf
+ACM/IEEE International Symposium Networks-on-Chip（NOCS）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/nocs
+Asia South Pacific Design AutomatiConference（ASP-DAC）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/aspdac
+Application-Specific Systems, Architectures, Processors（ASAP）	IEEE	http://dblp.uni-trier.de/db/conf/asap
+Cluster Computing（CLUSTER）	IEEE	http://dblp.uni-trier.de/db/journals/cluster/
+Cluster Computing the Grid（CCGRID）	IEEE	http://dblp.uni-trier.de/db/conf/ccgrid/
+European Conference Parallel Distributed Computing（Euro-Par）	Springer	http://dblp.uni-trier.de/db/conf/europar/
+European Test Symposium（ETS）	IEEE	http://dblp.uni-trier.de/db/conf/ets/
+Field Programmable Logic Applications（FPL）	IEEE	http://dblp.uni-trier.de/db/conf/fpl/
+Field-Programmable Custom Computing Machines（FCCM）	IEEE	http://dblp.uni-trier.de/db/conf/fccm/
+Great Lakes Symposium VLSI Systems（GLSVLSI）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/glvlsi/
+IEEE International Conference High Performance Computing Communications（HPCC）	IEEE	http://dblp.uni-trier.de/db/conf/hpcc/
+IEEE International Symposium Modeling, Analysis, SimulatiComputer TelecommunicatiSystems（MASCOTS）	IEEE	http://dblp.uni-trier.de/db/conf/mascots/
+IFIP International Conference Network Parallel Computing（NPC）	Springer	http://dblp.uni-trier.de/db/conf/npc/
+International Conference Algorithms Architectures for Parallel Processing（ICA3PP）	IEEE	http://dblp.uni-trier.de/db/conf/ica3pp/
+International Conference Compilers, Architectures, Synthesis for Embedded Systems（CASES）	ACM	http://dblp.uni-trier.de/db/conf/cases/index.html
+International Conference Field-Programmable Technology（FPT）	IEEE	http://dblp.uni-trier.de/db/conf/fpt/
+International Conference High Performance Computing（HPC）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/hipc/index.html
+International Conference Parallel Distributed Systems（ICPADS）	IEEE	http://dblp.uni-trier.de/db/conf/icpads/
+International Symposium Circuits Systems（ISCAS）	IEEE	http://dblp.uni-trier.de/db/conf/iscas/
+International Symposium Low Power Electronics Design（ISLPED）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/islped/
+International Symposium Physical Design（ISPD）	ACM	http://dblp.uni-trier.de/db/conf/ispd/
+Symposium High-Performance Interconnects（Hot Interconnects）	IEEE	http://dblp.uni-trier.de/db/conf/hoti/
+VLSI Test Symposium（VTS）	IEEE	http://dblp.uni-trier.de/db/conf/vts/
+Sym. Parallel Distributed Processing Applications（ISPA）	http://dblp.uni-trier.de/db/conf/ispa/
+ACM SIGOPS International Systems Storage Conference（SYSTOR）	ACM	http://dblp.uni-trier.de/db/conf/systor/index.html 
+IEEE Asian Test Symposium（ATS）	IEEE	http://dblp.uni-trier.de/db/conf/ats/
+期刊A类
+IEEE/ACM Transactions Networking（TON）	IEEE, ACM	http://dblp.uni-trier.de/db/journals/ton/
+IEEE Journal Selected Areas in Communications（JSAC）	IEEE	http://dblp.uni-trier.de/db/journals/jsac/
+IEEE Transactions Mobile Computing（TMC）	IEEE	http://dblp.uni-trier.de/db/journals/tmc/
+期刊B类
+ACM Transactions Internet Technology（TOIT）	ACM	http://dblp.uni-trier.de/db/journals/toit/
+ACM Transactions Multimedia Computing, Communications Applications（TOMCCAP）	ACM	http://dblp.uni-trier.de/db/journals/tomccap/
+ACM Transactions Sensor Networks（TOSN）	ACM	http://dblp.uni-trier.de/db/journals/tosn/
+Computer Networks（CN）	Elsevier	http://dblp.uni-trier.de/db/journals/cn/
+IEEE Transactions Communications（TOC）	IEEE	http://dblp.uni-trier.de/db/journals/tcom/
+IEEE Transactions Wireless Communications（TWC）	IEEE	http://dblp.uni-trier.de/db/journals/twc/
+期刊C类
+Ad hoc Networks	Elsevier	http://dblp.uni-trier.de/db/journals/adhoc/
+Computer Communications（CC）	Elsevier	http://dblp.uni-trier.de/db/journals/comcom/
+IEEE Transactions Network Service Management（TNSM）	IEEE	http://dblp.uni-trier.de/db/journals/tnsm/
+IET Communications	IET	http://dblp.uni-trier.de/db/journals/iet-com/
+Journal Network Computer Applications（JNCA）	Elsevier	http://dblp.uni-trier.de/db/journals/jnca/
+Mobile Networks & Applications（MONET）	Springer	http://dblp.uni-trier.de/db/journals/monet/
+Networks		Wiley	http://dblp.uni-trier.de/db/journals/networks/
+Peer-to-Peer Networking Applications（PPNA）	Springer	http://dblp.uni-trier.de/db/journals/ppna/
+Wireless Communications & Mobile Computing（WCMC）	Wiley	http://dblp.uni-trier.de/db/journals/wicomm/
+Wireless Networks	Springer	http://dblp.uni-trier.de/db/journals/winet/
+会议A类
+ACM International Conference Mobile Computing Networking（MOBICOM）	ACM	http://dblp.uni-trier.de/db/conf/mobicom/
+ACM International Conference the applications, technologies, architectures, protocols for computer communication（SIGCOMM）	ACM	http://dblp.uni-trier.de/db/conf/sigcomm/index.html
+IEEE International Conference Computer Communications（INFOCOM）	IEEE	http://dblp.uni-trier.de/db/conf/infocom/
+会议B类
+ACM Conference Embedded Networked Sensor Systems（SenSys）	ACM	http://dblp.uni-trier.de/db/conf/sensys/
+ACM International Conference emerging Networking EXperiments Technologies（CoNEX）	ACM	http://dblp.uni-trier.de/db/conf/conext/
+IEEE Communications Society Conference Sensor Ad Hoc Communications Networks（SECON）	IEEE	http://dblp.uni-trier.de/db/conf/secon/
+International Conference InformatiProcessing in Sensor Networks（IPSN）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/ipsn/
+International Conference Network Protocols（ICNP）	IEEE	http://dblp.uni-trier.de/db/conf/icnp/
+International Symposium Mobile Ad Hoc Networking Computing（MobiHoc）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/mobihoc/
+International Conference Mobile Systems, Applications, Services（MobiSys）	ACM	http://dblp.uni-trier.de/db/conf/mobisys/
+International Workshop Quality Service（IWQoS）	IEEE	http://dblp.uni-trier.de/db/conf/iwqos/
+Internet Measurement Conference（IMC）	ACM/USENIX	http://dblp.uni-trier.de/db/conf/imc/
+Network Operating System Support for Digital Audio Video（NOSSDAV）	ACM	http://dblp.uni-trier.de/db/conf/nossdav/
+Symposium Network System Design Implementation（NSDI）	USENIX	http://dblp.uni-trier.de/db/conf/nsdi/
+会议C类
+Architectures for Networking Communications Systems（ANCS）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/ancs/
+Formal Techniques for Networked Distributed Systems（FORTE）	Springer	http://dblp.uni-trier.de/db/conf/forte/
+IEEE Conference Local Computer Networks（LCN）	IEEE	http://dblp.uni-trier.de/db/conf/lcn/
+IEEE Global Communications Conference, incorporating the Global Internet Symposium（Globecom）	IEEE	http://dblp.uni-trier.de/db/conf/globecom/
+IEEE International Conference Communications（ICC）	IEEE	http://dblp.uni-trier.de/db/conf/icc/
+IEEE International Conference Computer Communications Networks（ICCCN）	IEEE	http://dblp.uni-trier.de/db/conf/icccn/
+IEEE International Conference Mobile Ad hoc Sensor Systems（MASS）	IEEE	http://dblp.uni-trier.de/db/conf/mass/index.html
+IEEE International Conference P2P Computing（P2P）	IEEE	http://dblp.uni-trier.de/db/conf/p2p/
+IEEE International Performance Computing Communications Conference（IPCCC）	IEEE	http://dblp.uni-trier.de/db/conf/ipccc/
+IEEE International Symposium a World Wireless Mobile Multimedia Networks（WoWMoM）	IEEE	http://dblp.uni-trier.de/db/conf/wowmom/
+IEEE Symposium Computers Communications（ISCC）	IEEE	http://dblp.uni-trier.de/db/conf/iscc/
+IEEE Wireless Communications & Networking Conference（WCNC）	IEEE	http://dblp.uni-trier.de/db/conf/wcnc/
+IFIP International Conferences Networking（Networking）	IFIP	http://dblp.uni-trier.de/db/conf/networking/index.html
+IFIP/IEEE International Symposium Integrated Network Management（IM）	IFIP/IEEE	http://dblp.uni-trier.de/db/conf/im/index.html
+International Conference Modeling, Analysis SimulatiWireless Mobile Systems（MSWiM）	ACM	http://dblp.uni-trier.de/db/conf/mswim/
+Asia-Pacific Network Operations Management Symposium（NOMS）	IFIP/IEEE	http://dblp.uni-trier.de/db/conf/apnoms/
+The Workshop Hot Topics in Networks（HotNets）	ACM	http://dblp.uni-trier.de/db/conf/hotnets/
+International Conference Wireless Algorithms, Systems, Applications（WASA）	Springer	http://dblp.uni-trier.de/db/conf/wasa/
+期刊A类
+IEEE Transactions Dependable Secure Computing（TDSC）	IEEE	http://dblp.uni-trier.de/db/journals/tdsc/
+IEEE Transactions InformatiForensics Security（TIFS）	IEEE	http://dblp.uni-trier.de/db/journals/tifs/
+Journal Cryptology	Springer	http://dblp.uni-trier.de/db/journals/joc/
+期刊B类
+ACM Transactions InformatiSystem Security（TISSEC）	ACM	http://dblp.uni-trier.de/db/journals/tissec/
+Computers & Security	Elsevier	http://dblp.uni-trier.de/db/journals/compsec/
+Designs, Codes Cryptography	Springer	http://dblp.uni-trier.de/db/journals/dcc/
+Journal Computer Security（JCS）	IOS Press	http://dblp.uni-trier.de/db/journals/jcs/
+期刊C类
+Computer Law Security Reports（CLSR）	Elsevier	http://www.journals.elsevier.com/computer-law-and-security-review/
+EURASIP Journal InformatiSecurity	Springer	http://dblp.uni-trier.de/db/journals/ejisec/
+IET InformatiSecurity	IET	http://dblp.uni-trier.de/db/journals/iet-ifs/
+InformatiManagement & Computer Security（IMCS）	Emerald	http://dblp.uni-trier.de/db/journals/imcs/
+InformatiSecurity Technical Report（ISTR）	Elsevier 	http://dblp.uni-trier.de/db/journals/istr/
+International Journal InformatiSecurity Privacy Idea Group（IJISP）	Inc	http://dblp.uni-trier.de/db/journals/ijisp/
+International Journal InformatiComputer Security（IJICS）	Inderscience	http://dblp.uni-trier.de/db/journals/ijics/
+Security CommunicatiNetworks（SCN）	Wiley	http://dblp.uni-trier.de/db/journals/scn/
+会议A类
+ACM Conference Computer Communications Security（CCS）	ACM	http://dblp.uni-trier.de/db/conf/ccs/
+International Cryptology Conference（CRYPTO）	Springer	http://dblp.uni-trier.de/db/conf/crypto/
+European Cryptology Conference（EUROCRYPT）	Springer	http://dblp.uni-trier.de/db/conf/eurocrypt/
+IEEE Symposium Security Privacy（S&P）	IEEE	http://dblp.uni-trier.de/db/conf/sp/
+Security Usenix Security Symposium（USENIX）	USENIX	Associatihttp://dblp.uni-trier.de/db/conf/uss/
+会议B类
+Annual Computer Security Applications Conference（ACSAC）	IEEE	http://dblp.uni-trier.de/db/conf/acsac/
+Annual International Conference the Theory ApplicatiCryptology InformatiSecurity（ASIACRYPT）	Springer	http://dblp.uni-trier.de/db/conf/asiacrypt/
+European Symposium Research in Computer Security（ESORICS）	Springer	http://dblp.uni-trier.de/db/conf/esorics/
+Fast Software Encryption（FSE）	Springer	http://dblp.uni-trier.de/db/conf/fse/
+ISOC Network Distributed System Security Symposium（NDSS）	ISOC	http://dblp.uni-trier.de/db/conf/ndss/
+IEEE Computer Security Foundations Workshop（CSFW）	IEEE	http://dblp.uni-trier.de/db/conf/csfw/
+International Symposium Recent Advances in IntrusiDetection（RAID）	Springer	http://dblp.uni-trier.de/db/conf/raid/
+International Workshop Practice Theory in Public Key Cryptography（PKC）	Springer	http://dblp.uni-trier.de/db/conf/pkc/
+The International Conference Dependable Systems Networks（DSN）	IEEE/IFIP	http://dblp.uni-trier.de/db/conf/dsn/
+Theory Cryptography Conference（TCC）	Springer	http://dblp.uni-trier.de/db/conf/tcc/
+IEEE International Symposium Reliable Distributed Systems（SRDS）	IEEE	http://dblp.uni-trier.de/db/conf/srds/
+Workshop Cryptographic Hardware Embedded Systems（CHES）	Springer	http://dblp.uni-trier.de/db/conf/ches/
+会议C类
+ACM Conference Security Privacy in Wireless Mobile Networks（WiSec）	ACM	http://dblp.uni-trier.de/db/conf/wisec/
+ACM Multimedia Security Workshop（ACM MM&SEC）	ACM	http://dblp.uni-trier.de/db/conf/ih/
+ACM Symposium Access Control Models Technologies（SACMAT）	ACM	http://dblp.uni-trier.de/db/conf/sacmat/
+ACM Symposium Information, Computer Communications Security（ASIACCS）	ACM	http://dblp.uni-trier.de/db/conf/ccs/
+ACM Workshop Digital Rights Management（DRM）	ACM	http://dblp.uni-trier.de/db/conf/drm/
+Applied Cryptography Network Security（ACNS）	Springer	http://dblp.uni-trier.de/db/conf/acns/
+Australasia Conference InformatiSecurity Privacy（ACISP）	Springer	http://dblp.uni-trier.de/db/conf/acisp/
+Digital Forensic Research Workshop（DFRWS）	Elsevier	http://dblp.uni-trier.de/db/conf/dfrws/
+Financial Cryptography Data Security（FC）	Springer	http://dblp.uni-trier.de/db/conf/fc/
+DetectiIntrusions Malware & Vulnerability Assessment（DIMVA）	SIDAR、GI、Springer	http://dblp.uni-trier.de/db/conf/dimva/
+IFIP International InformatiSecurity Conference（SEC）	Springer	http://dblp.uni-trier.de/db/conf/sec/
+IFIP WG 11.9 International Conference Digital Forensics（IFIP WG 11.9）	Springer	*http://www.ifip119.org/Conferences/
+InformatiSecurity Conference（ISC）	Springer	http://dblp.uni-trier.de/db/conf/isw/
+International Conference InformatiCommunications Security（ICICS）	Springer	http://dblp.uni-trier.de/db/conf/icics/
+International Conference Security Privacy in CommunicatiNetworks（SecureComm）	ACM	http://dblp.uni-trier.de/db/conf/securecomm/
+New Security Paradigms Workshop（NSPW）	ACM	http://dblp.uni-trier.de/db/conf/nspw/
+RSA Conference, Cryptographers' Track（CT-RSA）	Springer	http://dblp.uni-trier.de/db/conf/ctrsa/
+Symposium Usable Privacy Security（SOUPS）	ACM	http://dblp.uni-trier.de/db/conf/soups/
+USENIX Workshop Hot Topics in Security（HotSec）	USENIX	*http://www.usenix.org/events/
+Selected Areas in Cryptography（SAC）	Springer	http://dblp.uni-trier.de/db/conf/sacrypt/
+IEEE International Conference Trust, Security Privacy in Computing Communications（TrustCom）	IEEE	http://dblp.uni-trier.de/db/conf/trustcom/
+Passive Active Measurement Conference（PAM）	Springer	http://dblp.uni-trier.de/db/conf/pam/
+Privacy Enhancing Technologies Symposium（PETS）	Springer	http://dblp.uni-trier.de/db/conf/pet/
+International Conference Digital Forensics & Cyber Crime	Springer	http://dblp.uni-trier.de/db/conf/icdf2c/
+期刊A类
+ACM Transactions Programming Languages & Systems（TOPLAS）	ACM	http://dblp.uni-trier.de/db/journals/toplas/
+ACM Transactions Software Engineering Methodology（TOSEM）	ACM	http://dblp.uni-trier.de/db/journals/tosem/
+IEEE Transactions Software Engineering（TSE）	IEEE	http://dblp.uni-trier.de/db/journals/tse/
+期刊B类
+Automated Software Engineering（ASE）	Springer	http://dblp.uni-trier.de/db/journals/ase/
+Empirical Software Engineering（ESE）	Springer	http://dblp.uni-trier.de/db/journals/ese/
+IEEE Transactions Service Computing（TSC）	IEEE	http://dblp.uni-trier.de/db/journals/tsc/
+IET Software（IETS）	IET	http://dblp.uni-trier.de/db/journals/iee/index.html
+InformatiSoftware Technology（IST）	Elsevier	http://dblp.uni-trier.de/db/journals/infsof/index.html
+Journal Functional Programming（JFP）	Cambridge University Press	http://dblp.uni-trier.de/db/journals/jfp/
+Journal Software: EvolutiProcess	Wiley	http://dblp.uni-trier.de/db/journals/smr/
+Journal Systems Software（JSS）	Elsevier	http://dblp.uni-trier.de/db/journals/jss/
+Requirements Engineering（RE）	Springer	http://dblp.uni-trier.de/db/journals/re/
+Science Computer Programming（SCP）	Elsevier	http://dblp.uni-trier.de/db/journals/scp/
+Software System Modeling（SoSyM）	Springer	http://dblp.uni-trier.de/db/journals/sosym/
+Software: Practice Experience（SPE）	Wiley	http://dblp.uni-trier.de/db/journals/spe/
+Software Testing, VerificatiReliability（STVR）	Wiley	http://dblp.uni-trier.de/db/journals/stvr/index.html
+期刊C类
+Computer Languages, Systems Structures（CL）	Elsevier	http://dblp.uni-trier.de/db/journals/cl/index.html
+International Journal Software Engineering Knowledge Engineering（IJSEKE）	World Scientific	http://dblp.uni-trier.de/db/journals/ijseke/index.html
+International Journal Software Tools for Technology Transfer（STTT）	Springer	http://dblp.uni-trier.de/db/journals/sttt/
+Journal Logic Algebraic Programming（JLAP）	Elsevier	http://dblp.uni-trier.de/db/journals/jlp/jlap.html
+Journal Web Engineering（JWE）	RintPress	http://dblp.uni-trier.de/db/journals/jwe/
+Service Oriented Computing Applications（SOCA）	Springer	http://dblp.uni-trier.de/db/journals/soca/
+Software Quality Journal（SQJ）	Springer	http://dblp.uni-trier.de/db/journals/sqj/
+Theory Practice Logic ProgrammingCambridge University（TPLP） 	Press	http://dblp.uni-trier.de/db/journals/tplp/
+会议A类
+ACM SIGSOFT Symposium the FoundatiSoftware Engineering/European Software Engineering Conference（FSE/ESEC）	ACM	http://dblp.uni-trier.de/db/conf/sigsoft/
+Conference Object-Oriented Programming Systems, Languages, Applications（OOPSLA）	ACM	http://dblp.uni-trier.de/db/conf/oopsla/
+International Conference Software Engineering（ICSE）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/icse/
+USENIX Symposium Operating Systems Design Implementations（OSDI）	USENIX	http://dblp.uni-trier.de/db/conf/osdi/ 
+ACM SIGPLAN Symposium Programming Language Design & Implementation（PLDI）	ACM	http://dblp.uni-trier.de/db/conf/pldi/
+ACM SIGPLAN-SIGACT Symposium Principles Programming Languages（POPL）	ACM	http://dblp.uni-trier.de/db/conf/popl/
+ACM Symposium Operating Systems Principles（SOSP）	ACM	http://dblp.uni-trier.de/db/conf/sosp/
+International Conference Automated Software Engineering（ASE）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/kbse/
+会议B类
+European Conference Object-Oriented Programming（ECOOP）	AITO	http://dblp.uni-trier.de/db/conf/ecoop/
+European Joint Conferences Theory Practice Software（ETAPS）	Springer	http://dblp.uni-trier.de/db/conf/etaps/
+World Congress Formal Methods（FM）	FME	http://dblp.uni-trier.de/db/conf/fm/
+IEEE International Conference Program Comprehension（ICPC）	IEEE	http://dblp.uni-trier.de/db/conf/iwpc/
+IEEE International Requirement Engineering Conference（RE）	IEEE	http://dblp.uni-trier.de/db/conf/re/
+International Conference Advanced InformatiSystems Engineering（CAiSE）	Springer	http://dblp.uni-trier.de/db/conf/caise/
+International Conference FunctiProgramming（ICFP）	ACM	http://dblp.uni-trier.de/db/conf/icfp/
+International Conference Languages, Compilers, Tools Theory for Embedded Systems（LCTES）	ACM	http://dblp.uni-trier.de/db/conf/lctrts/
+International Conference Model Driven Engineering Languages Systems（MoDELS）	ACM, IEEE	http://dblp.uni-trier.de/db/conf/models/
+International Conference Principles Practice Constraint Programming（CP）	Springer	http://dblp.uni-trier.de/db/conf/cp/
+International Conference Service Oriented Computing（ICSOC）	Springer	http://dblp.uni-trier.de/db/conf/icsoc/
+International Conference Software Maintenance Evolution（ICSME）	IEEE	http://dblp.uni-trier.de/db/conf/icsm/
+International Conference Verification, Model Checking, Abstract Interpretation（VMCAI）	Springer	http://dblp.uni-trier.de/db/conf/vmcai/
+International Conference Web Services（Research Track）（ICWS）	IEEE	http://dblp.uni-trier.de/db/conf/icws/
+International Static Analysis Symposium（SAS）	Springer	http://dblp.uni-trier.de/db/conf/sas/
+International Symposium Software Reliability Engineering（ISSRE）	IEEE	http://dblp.uni-trier.de/db/conf/issre/
+International Symposium Software Testing Analysis（ISSTA）	ACM	http://dblp.uni-trier.de/db/conf/issta/
+Conference middleware（Middleware）	ACM/IFIP/USENIX	http://dblp.uni-trier.de/db/conf/middleware/
+International Conference Software Analysis, Evolution, Reengineering（SANER）	IEEE	http://dblp.uni-trier.de/db/conf/wcre/
+USENIX Workshop Hot Topics in Operating Systems（HotOS）	USENIX	http://dblp.uni-trier.de/db/conf/hotos/
+International Symposium Empirical Software Engineering Measurement（ESEM）	ACM/IEEE	http://dblp.uni-trier.de/db/conf/esem/
+会议C类
+ACMSIGPLAN-SIGSOFT Workshop Program Analysis for Software Tools Engineering（PASTE）	ACM	http://dblp.uni-trier.de/db/conf/paste/
+Asian Symposium Programming Languages Systems（APLAS）	Springer	http://dblp.uni-trier.de/db/conf/aplas/
+Asia-Pacific Software Engineering Conference（APSEC）	IEEE	http://dblp.uni-trier.de/db/conf/apsec/
+International Computer Software Applications Conference（COMPSAC）	IEEE	http://dblp.uni-trier.de/db/conf/compsac/
+IEEE International Conference Engineering Complex Computer Systems（ICECCS）	IEEE	http://dblp.uni-trier.de/db/conf/iceccs/
+IEEE International Working Conference Source Code Analysis Manipulation（SCAM）	IEEE	http://dblp.uni-trier.de/db/conf/scam/
+International Conference Formal Engineering Methods（ICFEM）	Springer	http://dblp.uni-trier.de/db/conf/icfem/
+International Conference Objects, Models, Components, Patterns（TOOLS）	Springer	http://dblp.uni-trier.de/db/conf/tools/index.html
+ACM SIGPLAN Symposium Partial EvaluatiSemantics Based Programming Manipulation（PEPM）	ACM	http://dblp.uni-trier.de/db/conf/pepm/
+The IEEE International Conference Software Quality, Reliability Security（QRS）	IEEE	http://paris.utdallas.edu/qrs/
+International Conference Software Engineering Knowledge Engineering（SEKE）	KSI	http://dblp.uni-trier.de/db/conf/seke/
+International Conference Software Reuse（ICSR）	Springer	http://dblp.uni-trier.de/db/conf/icsr/
+International Conference Web Engineering（ICWE）	Springer	http://dblp.uni-trier.de/db/conf/icwe/
+International SPIN Workshop Model Checking Software（SPIN）	Springer	http://dblp.uni-trier.de/db/conf/spin/index.html
+International Symposium Logic-based Program Synthesis Transformation（LOPSTR）	Springer	http://dblp.uni-trier.de/db/conf/lopstr/
+International Symposium Theoretical Aspects Software Engineering（TASE）	IEEE	http://dblp.uni-trier.de/db/conf/tase/
+The IEEE International Conference Software Testing, VerificatiValidation（ICST）	IEEE	http://dblp.uni-trier.de/db/conf/icst/
+International Symposium Automated Technology for VerificatiAnalysis（ATVA）	Springer	http://dblp.uni-trier.de/db/conf/atva/
+IEEE International Symposium Performance Analysis Systems Software（ISPASS）	IEEE	http://dblp.uni-trier.de/db/conf/ispass/
+International Conference Service Computing（SCC）	IEEE	http://dblp.uni-trier.de/db/conf/IEEEscc/
+International Conference Software System Process（ICSSP）	ISPA	http://dblp.uni-trier.de/db/conf/ispw/
+Working Conference Mining Software Repositories（MSR）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/msr/
+Requirements Engineering: Foundatifor Software Quality（REFSQ）	Springer	http://dblp.uni-trier.de/db/conf/refsq/
+Working IEEE/IFIP Conference Software Architecture（WICSA）	IEEE	http://dblp.uni-trier.de/db/conf/wicsa/
+EvaluatiAssessment in Software Engineering（EASE）	ACM	http://dblp.uni-trier.de/db/conf/ease/
+期刊A类
+ACM Transactions Database Systems（TODS）	ACM	http://dblp.uni-trier.de/db/journals/tods/
+ACM Transactions InformatiSystems（TOIS）	ACM	http://dblp.uni-trier.de/db/journals/tois/
+IEEE Transactions Knowledge Data Engineering（TKDE）	IEEE	http://dblp.uni-trier.de/db/journals/tkde/
+VLDB Journal（VLDBJ）	Springer	http://dblp.uni-trier.de/db/journals/vldb/
+期刊B类
+ACM Transactions Knowledge Discovery from Data（TKDD）	ACM	http://dblp.uni-trier.de/db/journals/tkdd/
+Advanced Engineering Informatics（AEI）	Elsevier	http://dblp.uni-trier.de/db/journals/aei/
+Data Knowledge Engineering（DKE）	Elsevier	http://dblp.uni-trier.de/db/journals/dke/
+Data Mining Knowledge Discovery（DMKD）	Springer	http://dblp.uni-trier.de/db/journals/datamine/
+European Journal InformatiSystems（EJIS）	The OR Society	http://dblp.uni-trier.de/db/journals/ejis/
+GeoInformatica	Springer	http://dblp.uni-trier.de/db/journals/geoinformatica/
+InformatiProcessing Management（IPM）	Elsevier	http://dblp.uni-trier.de/db/journals/ipm/
+InformatiSciences	Elsevier	http://dblp.uni-trier.de/db/journals/isci/
+InformatiSystems（IS）	Elsevier	http://dblp.uni-trier.de/db/journals/is/
+Journal the American Society for InformatiScience Technology（JASIST）	American Society for InformatiScience Technology	http://dblp.uni-trier.de/db/journals/jasis/
+Journal Web Semantics（JWS）	Elsevier	http://dblp.uni-trier.de/db/journals/ws/
+Knowledge InformatiSystems（KIS）	Springer	http://dblp.uni-trier.de/db/journals/kais/
+ACM Transactions the Web（TWEB）	ACM	http://dblp.uni-trier.de/db/journals/tweb/
+期刊C类
+Distributed Parallel Databases（DPD）	Springer	http://dblp.uni-trier.de/db/journals/dpd/
+InformatiManagement（I&M）	Elsevier	http://dblp.uni-trier.de/db/journals/iam/
+InformatiProcessing Letters（IPL）	Elsevier	http://dblp.uni-trier.de/db/journals/ipl/
+InformatiRetrieval（IR）	Springer	http://dblp.uni-trier.de/db/journals/ir/
+International Journal Cooperative InformatiSystems（IJCIS）	World Scientific	http://dblp.uni-trier.de/db/journals/ijcis/
+International Journal Geographical InformatiScience（IJGIS）	Taylor & Francis	http://dblp.uni-trier.de/db/journals/gis/
+International Journal Intelligent Systems（IJIS）	Wiley	http://dblp.uni-trier.de/db/journals/ijis/
+International Journal Knowledge Management（IJKM）	IGI	http://dblp.uni-trier.de/db/journals/ijkm/
+International Journal Semantic Web InformatiSystems（IJSWIS）	IGI	http://dblp.uni-trier.de/db/journals/ijswis/
+Journal Computer InformatiSystems（JCIS）	IACIS	http://dblp.uni-trier.de/db/journals/jcis/
+Journal Database Management（JDM）	IGI-Global	http://dblp.uni-trier.de/db/journals/jdm/
+Journal Global InformatiTechnology Management（JGITM）	Ivy League Publishing	http://www.tandfonline.com/loi/ugit20#.Vnv35pN97rI
+Journal Intelligent InformatiSystems（JIIS）	Springer	http://dblp.uni-trier.de/db/journals/jiis/
+Journal Strategic InformatiSystems（JSIS）	Elsevier	http://dblp.uni-trier.de/db/journals/jsis/
+会议A类
+ACM Conference Management Data（SIGMOD）	ACM	http://dblp.uni-trier.de/db/conf/sigmod/
+ACM Knowledge Discovery Data Mining（SIGKDD）	ACM	http://dblp.uni-trier.de/db/conf/kdd/
+International Conference Research Development in InformatiRetrieval（SIGIR）	ACM	http://dblp.uni-trier.de/db/conf/sigir/
+International Conference Very Large Data Bases（VLDB）	Morgan Kaufmann/ACM	http://dblp.uni-trier.de/db/conf/vldb/
+IEEE International Conference Data Engineering（ICDE）	IEEE	http://dblp.uni-trier.de/db/conf/icde/
+会议B类
+ACM International Conference InformatiKnowledge Management（CIKM）	ACM	http://dblp.uni-trier.de/db/conf/cikm/
+ACM SIGMOD Conference Principles DB Systems（PODS）	ACM	http://dblp.uni-trier.de/db/conf/pods/
+Database Systems for Advanced Applications（DASFAA）	Springer	http://dblp.uni-trier.de/db/conf/dasfaa/
+European Conference Machine Learning Principles Practice Knowledge Discovery in Databases（ECML-PKDD）	Springer	http://dblp.uni-trier.de/db/conf/ecml/	http://dblp.uni-trier.de/db/conf/pkdd/
+IEEE International Semantic Web Conference（ISWC）	IEEE	http://dblp.uni-trier.de/db/conf/semweb/
+International Conference Data Mining（ICDM）	IEEE	http://dblp.uni-trier.de/db/conf/icdm/
+International Conference Database Theory（ICDT）	Springer	http://dblp.uni-trier.de/db/conf/icdt/
+International Conference Extending DB Technology（EDBT）	Springer	http://dblp.uni-trier.de/db/conf/edbt/
+International Conference InnovatiDatabase Research（CIDR）	Online Proceeding	http://dblp.uni-trier.de/db/conf/cidr/
+SIAM International Conference Data Mining（SDM）	SIAM	http://dblp.uni-trier.de/db/conf/sdm/
+ACM International Conference Web Search Data Mining（WSDM）	ACM	http://dblp.uni-trier.de/db/conf/wsdm/
+会议C类
+Database Expert System Applications（DEXA）	Springer	http://dblp.uni-trier.de/db/conf/dexa/
+European Conference IR Research（ECIR）	Springer	http://dblp.uni-trier.de/db/conf/ecir/
+International ACM Workshop Web Databases（WebDB）	ACM	http://dblp.uni-trier.de/db/conf/webdb/
+International Conference Conceptual Modeling（ER）	Springer	http://dblp.uni-trier.de/db/conf/er/
+International Conference Mobile Data Management（MDM）	IEEE	http://dblp.uni-trier.de/db/conf/mdm/
+International Conference Scientific Statistical DB Management（SSDBM）	IEEE	http://dblp.uni-trier.de/db/conf/ssdbm/
+International Conference Web Age InformatiManagement（WAIM）	Springer	http://dblp.uni-trier.de/db/conf/waim/
+International Symposium Spatial Temporal Databases（SSTD）	Springer	http://dblp.uni-trier.de/db/conf/ssd/
+Pacific-Asia Conference Knowledge Discovery Data Mining（PAKDD）	Springer	http://dblp.uni-trier.de/db/conf/pakdd/
+The Asia Pacific Web Conference（APWeb）	Springer	http://dblp.uni-trier.de/db/conf/apweb/
+Web InformatiSystems Engineering（WISE）	Springer	http://dblp.uni-trier.de/db/conf/wise/
+Extended Semantic Web Conference（ESWC）	Elsevier	http://dblp.uni-trier.de/db/conf/esws/
+期刊A类
+InformatiComputation（IANDC）	Elsevier 	http://dblp.uni-trier.de/db/journals/iandc/
+SIAM Journal Computing（SICOMP）	SIAM	http://dblp.uni-trier.de/db/journals/siamcomp/
+IEEE Transactions InformatiTheory（TIT）	IEEE	http://dblp.uni-trier.de/db/journals/tit/
+期刊B类
+ACM Transactions Algorithms（TALG）	ACM	http://dblp.uni-trier.de/db/journals/talg/
+ACM Transactions Computational Logic（TOCL）	ACM	http://dblp.uni-trier.de/db/journals/tocl/
+ACM Transactions Mathematical Software（TOMS）	ACM	http://dblp.uni-trier.de/db/journals/toms/
+Algorithmica	Springer	http://dblp.uni-trier.de/db/journals/algorithmica/
+Computational complexity（CC）	Springer	http://dblp.uni-trier.de/db/journals/cc/
+Formal Aspects Computing（FAC）	Springer	http://dblp.uni-trier.de/db/journals/fac/
+Formal Methods in System Design（FMSD）	Springer	http://dblp.uni-trier.de/db/journals/fmsd/
+INFORMS Journal Computing（INFORMS）	INFORMS	http://dblp.uni-trier.de/db/journals/informs/
+Journal Computer System Sciences（JCSS）	Elsevier	http://dblp.uni-trier.de/db/journals/jcss/
+Journal Global Optimization（JGO）	Springer	http://dblp.uni-trier.de/db/journals/jgo/
+Journal Symbolic Computation（JSC）	Elsevier	http://dblp.uni-trier.de/db/journals/jsc/
+Mathematical Structures in Computer Science（MSCS）	Cambridge University Press	http://dblp.uni-trier.de/db/journals/mscs/
+Theoretical Computer Science（TCS）	Elsevier	http://dblp.uni-trier.de/db/journals/tcs/
+期刊C类
+Annals Pure Applied Logic（APAL）	Elsevier	http://dblp.uni-trier.de/db/journals/apal/
+Acta Informatica（ACTA）	Springer	http://dblp.uni-trier.de/db/journals/acta/
+Discrete Applied Mathematics（DAM）	Elsevier	http://dblp.uni-trier.de/db/journals/dam/
+Fundamenta Informaticae（FUIN）	IOS Press	http://dblp.uni-trier.de/db/journals/fuin/
+Higher-Order Symbolic Computation（LISP）	Springer	http://dblp.uni-trier.de/db/journals/lisp/
+InformatiProcessing Letters（IPL）	Elsevier	http://dblp.uni-trier.de/db/journals/ipl/
+Journal Complexity（JCOMPLEXITY）	Elsevier	http://dblp.uni-trier.de/db/journals/jc/
+Journal Logic Computation（LOGCOM）	Oxford University Press	http://dblp.uni-trier.de/db/journals/logcom/
+Journal Symbolic Logic	Associatifor Symbolic Logic	http://dblp.uni-trier.de/db/journals/jsyml/
+Logical Methods in Computer Science（LMCS）	LMCS	http://dblp.uni-trier.de/db/journals/lmcs/
+SIAM Journal Discrete Mathematics（SIDMA）	SIAM	http://dblp.uni-trier.de/db/journals/siamdm/
+Theory Computing Systems	Springer	http://dblp.uni-trier.de/db/journals/mst/
+会议A类
+ACM Symposium Theory Computing（STOC）	ACM	http://dblp.uni-trier.de/db/conf/stoc/
+IEEE Symposium Foundations Computer Science（FOCS）	IEEE	http://dblp.uni-trier.de/db/conf/focs/
+IEEE Symposium Logic in Computer Science（LICS）	IEEE	http://dblp.uni-trier.de/db/conf/lics/
+Computer Aided Verification（CAV）	Springer	http://dblp.uni-trier.de/db/conf/cav/
+会议B类
+ACM Symposium Computational Geometry（SoCG）	ACM	http://dblp.uni-trier.de/db/conf/compgeom/
+ACM-SIAM Symposium Discrete Algorithms（SODA）	SIAM	http://dblp.uni-trier.de/db/conf/soda/
+Conference Automated Deduction/The International Joint Conference Automated Reasoning（CADE/IJCAR）	Springer	http://dblp.uni-trier.de/db/conf/cade/
+IEEE Conference Computational Complexity（CCC）	IEEE	http://dblp.uni-trier.de/db/conf/coco/
+International Colloquium Automata, Languages Programming（ICALP）	Springer	http://dblp.uni-trier.de/db/conf/icalp/
+International Conference Concurrency Theory（CONCUR）	Springer	http://dblp.uni-trier.de/db/conf/concur/
+International Conference Hybrid Systems: ComputatiControl（HSCC）	Springer ACM	http://dblp.uni-trier.de/db/conf/hybrid/
+European Symposium Algorithms（ESA）	Springer	http://dblp.uni-trier.de/db/conf/esa/
+会议C类
+Computer Science Logic（CSL）	Springer	http://dblp.uni-trier.de/db/conf/csl/
+Foundations Software Technology Theoretical Computer Science（FSTTCS）	Indian Associatifor Research in Computing Science	http://dblp.uni-trier.de/db/conf/fsttcs/
+International Conference Integer Programming Combinatorial Optimization（IPCO）	Springer	http://dblp.uni-trier.de/db/conf/ipco/
+International Conference Rewriting Techniques Applications（RTA）	Springer	http://dblp.uni-trier.de/db/conf/rta/
+International Symposium Algorithms Computation（ISAAC）	Springer	http://dblp.uni-trier.de/db/conf/isaac/
+Mathematical Foundations Computer Science（MFCS）	Springer	http://dblp.uni-trier.de/db/conf/mfcs/
+Symposium Theoretical Aspects Computer Science（STACS）	Springer	http://dblp.uni-trier.de/db/conf/stacs/
+Formal Method in Computer-Aided Design（FMCAD）	ACM	http://dblp.uni-trier.de/db/conf/fmcad/
+Theory Applications Satisfiability Testing（SAT）	Springer	http://dblp.uni-trier.de/db/conf/sat/
+International Colloquium Theoretical Aspects Computing（ICTAC）	Springer	http://dblp.uni-trier.de/db/conf/ictac/
+期刊A类
+ACM Transactions Graphics（TOG）	ACM	http://dblp.uni-trier.de/db/journals/tog/
+IEEE Transactions Image Processing（TIP）	IEEE	http://dblp.uni-trier.de/db/journals/tip/
+IEEE Transactions VisualizatiComputer Graphics（TVCG）	IEEE	http://dblp.uni-trier.de/db/journals/tvcg/
+期刊B类
+ACM Transactions Multimedia Computing, Communications Application（TOMCCAP）	ACM	http://dblp.uni-trier.de/db/journals/tomccap/
+Computer-Aided Design（CAD）	Elsevier	http://dblp.uni-trier.de/db/journals/cad/
+Computer Aided Geometric Design（CAGD）	Elsevier	http://dblp.uni-trier.de/db/journals/cagd/
+Computer Graphics Forum（CGF）	Wiley	http://dblp.uni-trier.de/db/journals/cgf/
+Graphical Models（GM）	Elsevier	http://dblp.uni-trier.de/db/journals/cvgip/
+IEEE Transactions Circuits Systems for Video Technology（TCSVT）	IEEE	http://dblp.uni-trier.de/db/journals/tcsv/
+IEEE Transactions Multimedia（TMM）	IEEE	http://dblp.uni-trier.de/db/journals/tmm/
+Journal The Acoustical Society America（JASA）	AIP	http://scitation.aip.org/content/asa/journal/jasa
+SIAM Journal Imaging Sciences（SIIMS）	SIAM	http://dblp.uni-trier.de/db/journals/siamis/
+Speech Communication（Speech Com）	Elsevier	http://dblp.uni-trier.de/db/journals/speech/
+期刊C类
+Computer AnimatiVirtual Worlds（CAVW）	Wiley	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1546-427X
+Computers & Graphics-UK（C&G）	Elsevier	http://dblp.uni-trier.de/db/journals/cg/
+Computational Geometry: Theory Applications（CGTA）	Elsevier	http://dblp.uni-trier.de/db/journals/comgeo/
+Discrete & Computational Geometry（DCG）	Springer	http://dblp.uni-trier.de/db/journals/dcg/
+IET Image Processing（IET-IPR）	IET	http://dblp.uni-trier.de/db/journals/iet-ipr/
+IEEE Signal Processing Letter	IEEE	http://dblp.uni-trier.de/db/journals/spl/
+Journal Visual CommunicatiImage Representation（JVCIR）	Elsevier	http://dblp.uni-trier.de/db/journals/jvcir/
+Multimedia Systems（MS）	Springer	http://dblp.uni-trier.de/db/journals/mms/
+Multimedia Tools Applications（MTA）	Springer	http://dblp.uni-trier.de/db/journals/mta/
+Signal Processing	Elsevier	http://dblp.uni-trier.de/db/journals/sigpro/
+Signal processing : image communication（SPIC）	Elsevier	http://dblp.uni-trier.de/db/journals/spic/
+The Visual Computer（TVC）	Springer	http://dblp.uni-trier.de/db/journals/vc/
+会议A类
+ACM International Conference Multimedia（ACM MM）	ACM	http://dblp.uni-trier.de/db/conf/mm/
+ACM SIGGRAPH Annual Conference（SIGGRAPH）	ACM	http://dblp.uni-trier.de/db/conf/siggraph/index.html
+IEEE VisualizatiConference（IEEE VIS）	IEEE	http://dblp.uni-trier.de/db/conf/visualization/index.html
+IEEE Virtual Reality（VR）	IEEE	http://dblp.uni-trier.de/db/conf/vr/
+会议B类
+ACM SIGMM International Conference Multimedia Retrieval（ICMR）	ACM	http://dblp.uni-trier.de/db/conf/mir/
+ACM Symposium Interactive 3D Graphics（i3D）	ACM	http://dblp.uni-trier.de/db/conf/si3d/
+ACM/Eurographics Symposium Computer Animation（SCA）	ACM	http://dblp.uni-trier.de/db/conf/sca/index.html
+Data CompressiConference（DCC）	IEEE	http://dblp.uni-trier.de/db/conf/dcc/
+Eurographics（EG）	Wiley/Blackwell	http://dblp.uni-trier.de/db/conf/eurographics/
+Eurographics Conference Visualization（EuroVis）	ACM	http://dblp.uni-trier.de/db/conf/vissym/
+Eurographics Symposium Geometry Processing（SGP）	Wiley/Blackwell	http://dblp.uni-trier.de/db/conf/sgp/
+Eurographics Symposium Rendering（EGSR）	Wiley/Blackwell	http://dblp.uni-trier.de/db/conf/rt/
+IEEE International Conference Multimedia & Expo（ICME）	IEEE	http://dblp.uni-trier.de/db/conf/icmcs/
+Pacific Graphics: The Pacific Conference Computer Graphics Applications（PG）	Wiley/Blackwell	http://dblp.uni-trier.de/db/conf/pg/index.html
+Symposium Solid Physical Modeling（SPM）	SMA/Elsevier	http://dblp.uni-trier.de/db/conf/sma/
+IEEE International Conference Acoustics, Speech SP（ICASSP）	IEEE	http://dblp.uni-trier.de/db/conf/icassp/
+会议C类
+Computer AnimatiSocial Agents（CASA）	Wiley	http://dblp.uni-trier.de/db/conf/ca/
+Computer Graphics International（CGI）	Springer	http://dblp.uni-trier.de/db/conf/cgi/
+International Symposium Mixed Augmented Reality（ISMAR）	IEEE/ACM	http://dblp.uni-trier.de/db/conf/ismar/
+IEEE Pacific VisualizatiSymposium（PacificVis）	IEEE	http://dblp.uni-trier.de/db/conf/apvis/
+International Conference Image Processing（ICIP）	IEEE	http://dblp.uni-trier.de/db/conf/icip/
+International Conference Multimedia Modeling（MMM）	Springer	http://dblp.uni-trier.de/db/conf/mmm/index.html
+Geometric Modeling Processing（GMP）	Elsevier	http://dblp.uni-trier.de/db/conf/gmp/
+Pacific-Rim Conference Multimedia（PCM）	Springer	http://dblp.uni-trier.de/db/conf/pcm/
+Shape Modeling International（SMI）	IEEE	http://dblp.uni-trier.de/db/conf/smi/
+Conference the International Speech CommunicatiAssociation（INTERSPEECH）	http://dblp.uni-trier.de/db/conf/interspeech/index.html
+ACM Symposium Virtual Reality Software Technology	ACM	http://dblp2.uni-trier.de/db/conf/vrst/
+期刊A类
+Artificial Intelligence（AI）	Elsevier	http://dblp.uni-trier.de/db/journals/ai/
+IEEE Trans Pattern Analysis Machine Intelligence（TPAMI）	IEEE	http://dblp.uni-trier.de/db/journals/pami/
+International Journal Computer Vision（IJCV）	Springer	http://dblp.uni-trier.de/db/journals/ijcv/
+Journal Machine Learning Research（JMLR）	MIT Press		http://dblp.uni-trier.de/db/journals/jmlr/
+期刊B类
+ACM Transactions Applied Perception（TAP）	ACM	http://dblp.uni-trier.de/db/journals/tap/
+ACM Transactions Speech Language Processing（TSLP）	ACM	http://dblp.uni-trier.de/db/journals/tslp/
+Computational Linguistics	MIT Press		http://dblp.uni-trier.de/db/journals/coling/
+Computer VisiImage Understanding（CVIU）	Elsevier	http://dblp.uni-trier.de/db/journals/cviu/
+Data Knowledge Engineering（DKE）	Elsevier	http://dblp.uni-trier.de/db/journals/dke/index.html
+Evolutionary Computation	MIT Press		http://dblp.uni-trier.de/db/journals/ec/
+IEEE Transactions Affective Computing（TAC）	IEEE	http://dblp.uni-trier.de/db/journals/taffco/
+IEEE Transactions Audio, Speech, Language Processing（TASLP）	IEEE	http://dblp.uni-trier.de/db/journals/taslp/
+IEEE Transactions Cybernetics	IEEE	http://dblp.uni-trier.de/db/journals/tcyb/
+IEEE Transactions Evolutionary Computation（TEC）	IEEE	http://dblp.uni-trier.de/db/journals/tec/
+IEEE Transactions Fuzzy Systems（TFS）	IEEE	http://dblp.uni-trier.de/db/journals/tfs/
+IEEE Transactions Neural Networks learning systems（TNNLS）	IEEE	http://dblp.uni-trier.de/db/journals/tnn/
+International Journal Approximate Reasoning（IJAR）	Elsevier	http://dblp.uni-trier.de/db/journals/ijar/
+Journal AI Research（JAIR）	AAAI	http://dblp.uni-trier.de/db/journals/jair/index.html
+Journal Automated Reasoning	Springer	http://dblp.uni-trier.de/db/journals/jar/
+Journal Speech, Language, Hearing Research	American Speech-Language Hearing Association	http://jslhr.pubs.asha.org/
+Machine Learning	Springer	http://dblp.uni-trier.de/db/journals/ml/
+Neural Computation	MIT Press		http://dblp.uni-trier.de/db/journals/neco/
+Neural Networks	Elsevier	http://dblp.uni-trier.de/db/journals/nn/
+Pattern Recognition	Elsevier	http://dblp.uni-trier.de/db/conf/par/
+Autonomous Agents Multi-Agent Systems（AAMAS）	Springer	http://dblp.uni-trier.de/db/journals/aamas/
+期刊C类
+ACM Transactions Asian Language InformatiProcessing（TALIP）	ACM	http://dblp.uni-trier.de/db/journals/talip/
+Applied Intelligence	Springer	http://dblp.uni-trier.de/db/journals/apin/
+Artificial Intelligence in Medicine（AIM）	Elsevier	http://dblp.uni-trier.de/db/journals/artmed/
+Artificial Life	MIT Press		http://dblp.uni-trier.de/db/journals/alife/
+Computational Intelligence	Wiley	http://dblp.uni-trier.de/db/journals/ci/
+Computer Speech Language	Elsevier	http://dblp.uni-trier.de/db/journals/csl/
+ConnectiScience	Taylor & Francis	http://dblp.uni-trier.de/db/journals/connection/
+DecisiSupport Systems（DSS）	Elsevier	http://dblp.uni-trier.de/db/journals/dss/
+Engineering Applications Artificial Intelligence（EAAI）	Elsevier	http://dblp.uni-trier.de/db/journals/eaai/
+Expert Systems	Blackwell/Wiley	http://dblp.uni-trier.de/db/journals/es/
+Expert Systems Applications（ESWA）	Elsevier	http://dblp.uni-trier.de/db/journals/eswa/
+Fuzzy Sets Systems	Elsevier	http://dblp.uni-trier.de/db/journals/fss/
+IEEE Transactions Computational Intelligence AI in Games（T-CIAIG）	IEEE	http://dblp.uni-trier.de/db/journals/tciaig/
+IET Computer Vision（IET-CVI）	IET	http://digital-library.theiet.org/content/journals/iet-cvi
+IET Signal Processing	IET	* http://digital-library.theiet.org/content/journals/iet-spr
+Image VisiComputing（IVC）	Elsevier	http://dblp.uni-trier.de/db/journals/ivc/
+Intelligent Data Analysis（IDA）	Elsevier	http://dblp.uni-trier.de/db/journals/ida/
+International Journal Computational Intelligence Applications（IJCIA）	World Scientific	http://dblp.uni-trier.de/db/journals/ijcia/
+International Journal Document Analysis Recognition（IJDAR）	Springer	http://dblp.uni-trier.de/db/journals/ijdar/
+International Journal Intelligent Systems（IJIS）	Wiley	http://dblp.uni-trier.de/db/journals/ijis/
+International Journal Neural Systems（IJNS）	World Scientific	http://dblp.uni-trier.de/db/journals/ijns/
+International Journal Pattern RecognitiArtificial Intelligence（IJPRAI）	World Scientific	http://dblp.uni-trier.de/db/journals/ijprai/
+International Journal Uncertainty, Fuzziness KBS	World Scientific	http://dblp.uni-trier.de/db/journals/ijcia/
+Journal Experimental Theoretical Artificial Intelligence（JETAI）	Taylor & Francis	http://dblp.uni-trier.de/db/journals/jetai/
+Knowledge-Based Systems（KBS）	Elsevier	http://dblp.uni-trier.de/db/journals/kbs/
+Machine Translation	Springer	http://dblp.uni-trier.de/db/journals/mt/
+Machine VisiApplications	Springer	http://dblp.uni-trier.de/db/journals/mva/
+Natural Computing		Springer	http://dblp.uni-trier.de/db/journals/nc/
+Natural Language Engineering（NLE）	Cambridge University	http://dblp.uni-trier.de/db/journals/nle/
+Neural Computing & Applications（NCA）	Springer	http://dblp.uni-trier.de/db/journals/nca/
+Neural Processing Letters（NPL）	Springer	http://dblp.uni-trier.de/db/journals/npl/
+Neurocomputing	Elsevier	http://dblp.uni-trier.de/db/journals/ijon/
+Pattern Analysis Applications（PAA）	Springer	http://dblp.uni-trier.de/db/journals/paa/
+Pattern RecognitiLetters（PRL）	Elsevier	http://dblp.uni-trier.de/db/journals/prl/
+Soft Computing	Springer	http://dblp.uni-trier.de/db/journals/soco/
+Web Intelligence Agent Systems（WIAS）	IOS Press		http://dblp.uni-trier.de/db/journals/wias/
+会议A类
+AAAI Conference Artificial Intelligence（AAAI）	AAAI	http://dblp.uni-trier.de/db/conf/aaai/
+IEEE Conference Computer VisiPattern Recognition（CVPR）	IEEE	http://dblp.uni-trier.de/db/conf/cvpr/
+International Conference Computer Vision（ICCV）	IEEE	http://dblp.uni-trier.de/db/conf/iccv/
+International Conference Machine Learning（ICML）	ACM	http://dblp.uni-trier.de/db/conf/icml/
+International Joint Conference Artificial Intelligence（IJCAI）	Morgan Kaufmann	http://dblp.uni-trier.de/db/conf/ijcai/
+Annual Conference Neural InformatiProcessing Systems（NIPS）	MIT Press		http://dblp.uni-trier.de/db/conf/nips/
+Annual Meeting the Associatifor Computational Linguistics（ACL）	ACL	http://dblp.uni-trier.de/db/conf/acl/
+会议B类
+Annual Conference Computational Learning Theory（COLT）	Springer	http://dblp.uni-trier.de/db/conf/colt/
+Conference Empirical Methods in Natural Language Processing（EMNLP）	ACL	http://dblp.uni-trier.de/db/conf/emnlp/
+European Conference Artificial Intelligence（ECAI）	IOS Press		http://dblp.uni-trier.de/db/conf/ecai/
+European Conference Computer Vision（ECCV）	Springer		http://dblp.uni-trier.de/db/conf/eccv/
+IEEE International Conference Robotics Automation（ICRA）	IEEE	http://dblp.uni-trier.de/db/conf/icra/
+International Conference Automated Planning Scheduling（ICAPS）	AAAI	http://dblp.uni-trier.de/db/conf/aips/
+International Conference Case-Based Reasoning（ICCBR）	Springer	http://dblp.uni-trier.de/db/conf/iccbr/
+International Conference Computational Linguistics（COLING）	ACM	http://dblp.uni-trier.de/db/conf/coling/
+International Conference Principles Knowledge RepresentatiReasoning（KR）	Morgan Kaufmann	http://dblp.uni-trier.de/db/conf/kr/
+International Conference Uncertainty in Artificial Intelligence（UAI）	AUAI	http://dblp.uni-trier.de/db/conf/uai/
+International Joint Conference Autonomous Agents Multi-agent Systems（AAMAS）	Springer	http://dblp.uni-trier.de/db/conf/atal/index.html
+Parallel Problem Solving from Nature（PPSN）	Springer	http://dblp.uni-trier.de/db/conf/ppsn/
+会议C类
+Asian Conference Computer Vision（ACCV）	Springer	http://dblp.uni-trier.de/db/conf/accv/
+Conference Natural Language Learning（CoNLL）	CoNLL	http://dblp.uni-trier.de/db/conf/conll
+Genetic Evolutionary ComputatiConference（GECCO）	ACM	http://dblp.uni-trier.de/db/conf/gecco/
+IEEE International Conference Tools Artificial Intelligence（ICTAI）	IEEE	http://dblp.uni-trier.de/db/conf/ictai/
+International Conference Algorithmic Learning Theory（ALT）	Springer	http://dblp.uni-trier.de/db/conf/alt/
+International Conference Artificial Neural Networks（ICANN）	Springer	http://dblp.uni-trier.de/db/conf/icann/
+International Conference Automatic Face Gesture Recognition（FGR）	IEEE	http://dblp.uni-trier.de/db/conf/fgr/
+International Conference Document Analysis Recognition（ICDAR）	IEEE	http://dblp.uni-trier.de/db/conf/icdar/
+International Conference Inductive Logic Programming（ILP）	Springer	http://dblp.uni-trier.de/db/conf/ilp/
+International conference Knowledge Science,Engineering Management（KSEM）	Springer	http://dblp.uni-trier.de/db/conf/ksem/
+International Conference Neural InformatiProcessing（ICONIP）	Springer		http://dblp.uni-trier.de/db/conf/iconip/
+International Conference Pattern Recognition（ICPR）IEEE http://dblp.uni-trier.de/db/conf/icpr/
+International Joint Conference Biometrics（ICB）	IEEE	http://dblp.uni-trier.de/db/conf/icb/
+International Joint Conference Neural Networks（IJCNN）	IEEE	http://dblp.uni-trier.de/db/conf/ijcnn/
+Pacific Rim International Conference Artificial Intelligence（PRICAI）	Springer	http://dblp.uni-trier.de/db/conf/pricai/
+The Annual Conference the North American Chapter the Associatifor Computational Linguistics（NAACL）	NAACL	http://dblp.uni-trier.de/db/conf/naacl/
+British Machine VisiConference（BMVC）	British Machine VisiAssociation	http://dblp.uni-trier.de/db/conf/bmvc/
+IEEE\RSJ International Conference Intelligent Robots Systems（IROS）	IEEE	http://dblp.uni-trier.de/db/conf/iros/
+Artificial Intelligence Statistics（AISTATS）	JMLR	http://dblp.uni-trier.de/db/conf/aistats/
+Asian Conf. Machine Learning（ACML）	JMLR	http://dblp.uni-trier.de/db/conf/acml/
+期刊A类
+ACM Transactions Computer-Human Interaction（TOCHI）	ACM	http://dblp.uni-trier.de/db/journals/tochi/
+International Journal Human Computer Studies（IJHCS）	Elsevier	http://dblp.uni-trier.de/db/journals/ijmms/
+期刊B类
+Computer Supported Cooperative Work（CSCW）	Springer	http://dblp.uni-trier.de/db/journals/cscw/
+Human Computer Interaction（HCI）	Taylor & Francis	http://dblp.uni-trier.de/db/journals/hhci/
+Interacting Computers（IWC）	Oxford University Press	http://dblp.uni-trier.de/db/journals/iwc/
+User Modeling User-Adapted Interaction（UMUAI）	Springer	http://dblp.uni-trier.de/db/journals/umuai/
+International Journal Human-Computer Interaction（IJHCI）	Taylor & Francis	http://dblp.uni-trier.de/db/journals/ijhci/
+IEEE Transactions Human-Machine Systems	IEEE	http://dblp.uni-trier.de/db/journals/thms/
+期刊C类
+Behaviour & Information Technology（BIT）	Taylor & Francis	http://dblp.uni-trier.de/db/journals/behaviourIT/
+Pervasive Mobile Computing（PMC）	Elsevier	http://dblp.uni-trier.de/db/journals/percom/
+Personal Ubiquitous Computing（PUC）	Springer	http://dblp.uni-trier.de/db/journals/puc/
+会议A类
+ACM Conference Human Factors in Computing Systems（CHI）	ACM	http://dblp.uni-trier.de/db/conf/chi
+ACM International Conference Ubiquitous Computing（UbiComp）	ACM	http://dblp.uni-trier.de/db/conf/huc/
+ACM Conference Computer Supported Cooperative Work Social Computing（CSCW）	ACM	http://dblp.uni-trier.de/db/conf/cscw
+会议B类
+ACM International Conference Intelligent User Interfaces（IUI）	ACM	http://dblp.uni-trier.de/db/conf/iui/
+ACM International Conference Interactive Tabletops Surfaces（ITS）	ACM	http://dblp.uni-trier.de/db/conf/tabletop/
+ACM Symposium User Interface Software Technology（UIST）	ACM	http://dblp.uni-trier.de/db/conf/uist/
+European Computer Supported Cooperative Work（ECSCW）	Springer	http://dblp.uni-trier.de/db/conf/ecscw/
+International Conference Human Computer InteractiMobile Devices Services（MobileHCI）	ACM	http://dblp.uni-trier.de/db/conf/mhci/
+IEEE International Conference Pervasive Computing Communications（PERCOM）	IEEE	http://dblp.uni-trier.de/db/conf/percom/
+ACM Conference Supporting Group Work（GROUP）	ACM	http://dblp.uni-trier.de/db/conf/group/
+会议C类
+ACM SIGACCESS Conference Computers Accessibility（ASSETS）	ACM	http://dblp.uni-trier.de/db/conf/assets
+ACM Conference Designing Interactive Systems（DIS）		ACM	http://dblp.uni-trier.de/db/conf/ACMdis/
+Graphics Interface conference（GI）	ACM	http://dblp.uni-trier.de/db/conf/graphicsinterface/
+International Conference Mobile Ubiquitous Systems: Computing, Networking Services（MobiQuitous）	Springer	http://dblp.uni-trier.de/db/conf/mobiquitous/
+IFIP TC13 Conference Human-Computer Interaction（INTERACT）	IFIP	http://dblp.uni-trier.de/db/conf/interact/
+International Conference Cooperative InformatiSystems（CoopIS）	Springer	http://dblp.uni-trier.de/db/conf/coopis/
+ACM International Conference Multimodal Interaction（ICMI）	ACM	http://dblp.uni-trier.de/db/conf/icmi/
+InteractiDesign Children（IDC）	ACM	http://dblp.uni-trier.de/db/conf/acmidc/
+International Working Conference Advanced Visual Interfaces（AVI）	ACM	http://dblp.uni-trier.de/db/conf/avi/
+IEEE International Conference Ubiquitous Intelligence Computing（UIC）	IEEE	http://dblp.uni-trier.de/db/conf/uic/
+ACM Conference Designing Interactive Systems（DIS）		ACM	http://dblp.uni-trier.de/db/conf/ACMdis
+IEEE World Haptics Conference	IEEE	http://dblp.uni-trier.de/db/conf/haptics/
+International Conference Computer Supported Cooperative Work in Design（CSCWD）	Springer	http://dblp.uni-trier.de/db/conf/cscwd/
+International Conference Collaborative Computing（CollaborateCom）	Springer	http://collaboratecom.org
+期刊A类
+Proceedings of the IEEE（Proc. IEEE）	IEEE	http://dblp.uni-trier.de/db/journals/pieee/
+Journal of the ACM（JACM）	ACM	http://dblp.uni-trier.de/db/journals/jacm/
+期刊B类
+Bioinformatics	Oxford University Press	http://dblp.uni-trier.de/db/journals/bioinformatics/
+Briefings in Bioinformatics	Oxford University Press	http://dblp.uni-trier.de/db/journals/bib/
+Cognition：International Journal of Cognitive Science（Cognition）	Elsevier	http://www.journals.elsevier.com/cognition/
+PLOS Computational Biology		Public Library of Science	http://dblp.uni-trier.de/db/journals/ploscb/
+IEEE Transactions on Medical Imaging（TMI）	IEEE	http://dblp.uni-trier.de/db/journals/tmi/
+IEEE Transactions on Geoscience and Remote Sensing（TGARS）	IEEE	http://dblp.uni-trier.de/db/journals/tgrs/
+IEEE Transactions on Intelligent Transportation Systems（TITS）	IEEE	http://dblp.uni-trier.de/db/journals/tits/
+IEEE Transactions on Robotics（TR）	IEEE	http://dblp.uni-trier.de/db/journals/trob/
+IEEE Transactions on Automation Science and Engineering（TASAE）	IEEE	http://dblp.uni-trier.de/db/journals/tase/
+Journal of Computer Science and Technology（JCST）	SCIENCE PRESS/Springer	http://dblp.uni-trier.de/db/journals/jcst/
+Journal of the American Medical Informatics Association（JAMIA）	BMJ	Journals http://dblp.uni-trier.de/db/journals/jamia/
+Science China Information Sciences	Science in China Press/Springer	http://dblp.uni-trier.de/db/journals/chinaf/
+The Computer Journal	Oxford University Press	http://dblp.uni-trier.de/db/journals/cj/
+World Wide Web Journal	Springer		http://dblp.uni-trier.de/db/journals/wwwj/
+期刊C类
+BMC Bioinformatics		BioMed Central	http://dblp.uni-trier.de/db/journals/bmcbi/
+Cybernetics and Systems	Taylor & Francis	http://dblp.uni-trier.de/db/journals/cas/
+IEEE Geoscience and Remote Sensing Letters	IEEE	http://dblp.uni-trier.de/db/journals/lgrs/
+IEEE Transactions on Information Technology in Biomedicine（TITB）	IEEE	http://dblp.uni-trier.de/db/journals/titb/
+IEEE-ACM Transactions on Computational Biology and Bioinformatics（TCBB）	IEEE/ACM	http://dblp.uni-trier.de/db/journals/tcbb/
+IET Intelligent Transport Systems	IET	http://digital-library.theiet.org/content/journals/iet-its
+Medical Image Analysis	Elsevier	http://dblp.uni-trier.de/db/journals/mia/
+Frontiers of Computer Science（FCS）	Higher Education Press	http://dblp.uni-trier.de/db/journals/fcsc/
+会议A类
+Real-Time Systems Symposium（RTSS）	IEEE	http://dblp.uni-trier.de/db/conf/rtss/
+International World Wide Web Conferences（WWW）	ACM	http://dblp.uni-trier.de/db/conf/www/
+会议B类
+International Conference on Embedded Software（EMSOFT）	ACM/IEEE/IFIP	http://dblp.uni-trier.de/db/conf/emsoft/
+International conference on Intelligent Systems for Molecular Biology（ISMB）	Oxford Journals	http://www.iscb.org/about-ismb
+Cognitive Science Society Annual Conference（CogSci）	Psychology Press	http://cognitivesciencesociety.org/conference2013/index.html
+International Conference on Research in Computational Molecular Biology（RECOMB）	Springer	http://dblp.uni-trier.de/db/conf/recomb/
+IEEE International Conference on Bioinformatics and Biomedicine（BIBM）	IEEE	http://dblp.uni-trier.de/db/conf/bibm/
+会议C类
+American Medical Informatics Association Annual Symposium（AMIA）	AMIA	http://dblp.uni-trier.de/db/conf/amia/
+Asia Pacific Bioinformatics Conference（APBC）	BioMed Central	http://dblp.uni-trier.de/db/conf/apbc/
+International Conference on Spatial Information Theory（COSIT）	ACM	http://dblp.uni-trier.de/db/conf/cosit/
+IEEE International Conference on Cloud Computing	IEEE	http://dblp.uni-trier.de/db/conf/IEEEcloud/
